@@ -1,0 +1,10 @@
+[run]
+branch = True
+source =
+    ApiLenium
+
+[paths]
+source =
+   src/ApiLenium
+   .tox/*/lib/python*/site-packages/ApiLenium
+   .tox/pypy/site-packages/ApiLenium
